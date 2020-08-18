@@ -6,8 +6,7 @@ Authors:
   Software Developer: Vinícius Santos de Pontes and Rafael Nicolay Baptista da Silva
   Researchers: Rafael Nicolay Baptista da Silva, Vinicius Santos de Pontes, Manuela Leal da Silva 
 
-README file written by: Vinícius Santos de Pontes
-Date: 16/11/2018
+README file written by: Vinícius Santos de Pontes and Rafael Nicolay Baptista da Silva
 
 Tested on:
   Ubuntu 14.04 LTS
