@@ -1,9 +1,9 @@
 # ASABS 1.1 (READ AS RAW TEXT) 
-Software for Automated Search of Biological Targets (ASABS)
+Automatic Search and Assembly of Biological Sequences (ASABS)
 
 Version: 1.1
 Authors:
-  Software Developer: Vinícius Santos de Pontes
+  Software Developer: Vinícius Santos de Pontes and Rafael Nicolay Baptista da Silva
   Researchers: Rafael Nicolay Baptista da Silva, Vinicius Santos de Pontes, Manuela Leal da Silva 
 
 README file written by: Vinícius Santos de Pontes
